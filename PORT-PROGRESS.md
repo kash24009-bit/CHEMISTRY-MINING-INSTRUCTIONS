@@ -7,5 +7,5 @@ Each step is committed and pushed when it is done, so a usage stop loses nothing
 - [x] 3. CHE-03 mistakes ledger: every lesson carried from Physics, marked as carried history.
 - [x] 4. CHE-05 syllabus: 83 rows, from the official 2026-27 syllabus (units and marks; topic wording checked again at Batch 0).
 - [x] 5. CHE-06 pattern seed: 121 DRAFT patterns, each with a plain name, an "asks you to" line and a scoring skeleton; a fresh vault seeds them and validates 16/16.
-- [ ] 6. CHE-09 work plan, CHE-11 teaching handoff, README.
+- [x] 6. CHE-04 CBSE intelligence (every fact labelled VERIFIED, REPORTED or RECALLED), CHE-09 work plan (her order, patterns at every year's close), CHE-11 teaching handoff (the pack format her teacher needs), README.
 - [ ] 7. Final checks, then the pull request.
