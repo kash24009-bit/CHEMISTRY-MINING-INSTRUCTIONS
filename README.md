@@ -20,6 +20,7 @@ Every CBSE Class 12 Chemistry board paper and marking scheme she supplies, mined
 | `RULE-CARD.md` | The readers' rules, with section B-CHE for reading Chemistry |
 | `.claude/agents/che-reader.md` | The reader subagent |
 | `pyqkit.py`, `che_code_env.py`, `che_gate.py`, `che_marks.py`, `che_s6.py` | The kit and tools, tested |
+| `outputs/tools/` | Claude Code's own helpers, as Physics ran them: page bands, crop sheets, the paper, sibling and scheme worksheets, the usage measure, the notes filer |
 | `PORT-PROGRESS.md` | What the port did, step by step |
 
 ## How it starts
